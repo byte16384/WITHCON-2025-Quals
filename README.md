@@ -1,1 +1,1 @@
-# WITHCON-2025-Quals
+whitehat contest quals writeup
